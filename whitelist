@@ -1,4 +1,3 @@
-#2o7.net
 1drv.ms
 1e100.net
 a1856.da1.akamai.net
@@ -52,6 +51,7 @@ api.screenname.aol.com
 api.smoot.apple.com
 api.wunderground.com
 apis.google.com
+app.lenovo.com
 appengine.google.com
 appldnld.apple.com
 apple-dns.net
@@ -120,7 +120,7 @@ clients5.googleusercontent.com
 clients6.google.com
 clients6.googleusercontent.com
 clients7.googleusercontent.com
-cliphunter.com
+cloud.lenovo.com
 cloudflare.com
 cloudfront.net
 cloudinary.com
@@ -128,6 +128,7 @@ cm.adc.glbdns.microsoft.com
 commondatastorage.googleapis.com
 configuration.apple.com
 conn.skype.akadns.net
+connect2.lenovo.com
 contacts.icloud.com
 copyfight.corante.com
 corpext.msitadfs.glbdns2.microsoft.com
@@ -173,7 +174,6 @@ ebay.in
 edge.icloud.apple-dns.net
 edgekey.net
 edgesuite.net
-efukt.com
 embed.spotify.com
 en25.com
 erome.com
@@ -387,6 +387,7 @@ khms1.google.com
 khms1.googleapis.com
 l.google.com
 l.googleusercontent.com
+lenovo.com
 lh3.ggpht.com
 lh4.ggpht.com
 lh5.ggpht.com
@@ -424,14 +425,12 @@ media-imdb.com
 members.btmm.icloud.com
 members.mac.com
 members.me.com
-menshealth.com
 messagetracer-whitelist.apple.com
 mesu.apple.com
 metrics.apple.com
 mobibookz.cc
 mobile-uat.corp.apple.com
 mobile.apple.com
-motherless.com
 msg.yahoo.com
 msn.com
 mt.l.google.com
@@ -474,6 +473,7 @@ outlook.office365.com
 pack.google.com
 pancake.apple.com
 pardot.com
+passport.lenovo.com
 pgl.yoyo.org
 phobos.apple.com
 phobos.itunes-apple.com.akadns.net
@@ -510,8 +510,6 @@ rapidssl-aia.geotrust.com
 redcarpet.apple.com
 reg1.apple.com
 rover.ebay.com
-rude.com
-ruleporn.com
 s.gateway.messenger.live.com
 s.mzstatic.com
 s1.symcb.com
@@ -526,7 +524,6 @@ salesforce.com
 sandbox.gc.apple.com
 sandbox.itunes.apple.com
 sandbox.push.apple.com
-sape.ru
 sc01.alicdn.com
 scento.apple.com
 scontent-lhr3-1.xx.fbcdn.net
@@ -623,13 +620,9 @@ www.gstatic.com
 www.isg-apple.com.akadns.net
 www.me.com
 www.msftncsi.com
-xhamster.com
-xnxx.com
 xp.apple.com
 xseedapps.apple.com
-xvideos.com
 yastatic.net
-youporn.com
 z2r0y.apple.com
 zencdn.net
 zeustracker.abuse.ch
