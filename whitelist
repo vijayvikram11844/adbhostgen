@@ -10,6 +10,7 @@ ac-at.apple.com
 accounts.google.com
 accounts.gstatic.com
 accounts.l.google.com
+accounts.youtube.com
 adaway.org
 addons.mozilla.org
 adf.ly
@@ -106,6 +107,7 @@ buy.itunes.com
 c.msn.com.nsatc.net
 c.s-microsoft.com
 cache.l.google.com
+cache.pack.google.com
 caldav.icloud.com
 cbk0.google.com
 cbk0.googleapis.com
@@ -223,25 +225,14 @@ edge.icloud.apple-dns.net
 edgekey.net
 edgesuite.net
 eds.xboxlive.com
+eloqua.com
 embed.spotify.com
 en25.com
 erome.com
-eroprofile.com
 event.apple.com
 evintl-ocsp.verisign.com
 evsecure-ocsp.verisign.com
 extensions.apple.com
-external-lhr0-1.xx.fbcdn.net
-external-lhr1-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
-external-lhr3-1.xx.fbcdn.net
-external-lhr4-1.xx.fbcdn.net
-external-lhr5-1.xx.fbcdn.net
-external-lhr6-1.xx.fbcdn.net
-external-lhr7-1.xx.fbcdn.net
-external-lhr8-1.xx.fbcdn.net
-external-lhr9-1.xx.fbcdn.net
 facebook.com
 facebook.net
 fbcdn-creative-a.akamaihd.net
@@ -278,7 +269,6 @@ glbdns.microsoft.com
 go.amazonservices.com
 goo.gl
 google-analytics.com
-google.com
 googleapis.com
 googleapis.l.google.com
 googlecode.com
@@ -432,6 +422,7 @@ init.itunes.apple.com
 ink.apple.com
 insideapple.apple.com
 insideicloud.icloud.com
+instagram.com
 intercom.io
 internalcheck.apple.com
 iphone-ld.apple.com
@@ -514,7 +505,6 @@ meta.plex.bz
 meta.plex.tv
 metrics.apple.com
 metrics.plex.tv
-microsoft.com
 microsoftonline.com
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
@@ -567,7 +557,6 @@ onelogin.com
 ooyala.com
 open.spotify.com
 optimizely.com
-orrs.de
 oscdn.apple.com
 oscp.apple.com
 osrecovery.apple.com
@@ -589,8 +578,6 @@ phubcdn.com
 pi.hole
 pinterest.com
 pixel.wp.com
-placehold.it
-placeholdit.imgix.net
 play.google.com
 play.googleapis.com
 player.ooyala.com
@@ -655,7 +642,9 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sa.symcb.com
+safebrowsing-cache.google.com
 safebrowsing.clients.google.com
+safebrowsing.google.com
 safelinking.net
 salesforce.com
 sandbox.gc.apple.com
@@ -674,6 +663,8 @@ serverstatus.apple.com
 services.sonarr.tv
 settings-win.data.microsoft.com
 setup.icloud.com
+sf.io
+sf.net
 sh.st
 shareaholic.com
 sharepoint.com
@@ -682,6 +673,7 @@ skype.com
 slogin.oscar.aol.com
 smoot.apple.com
 someonewhocares.org
+sourceforge.io
 sourceforge.net
 spclient.wg.spotify.com
 speedtracer.apple.com
